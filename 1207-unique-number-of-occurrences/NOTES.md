@@ -1,8 +1,8 @@
 # Intuition
-<!-- The problem requires determining whether the number of occurrences of each unique element in an input array is itself unique. -->
+ The problem requires determining whether the number of occurrences of each unique element in an input array is itself unique.
 
 # Approach
-<!-- A common approach is to use a dictionary to count the occurrences of each element in the array. Then, we check if the counts themselves are unique. -->
+A common approach is to use a dictionary to count the occurrences of each element in the array. Then, we check if the counts themselves are unique. 
 
 1. Initialize an empty dictionary (`hashmap`) to store the count of occurrences for each unique element.
 2. Iterate through the input array (`arr`).
