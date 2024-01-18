@@ -31,9 +31,6 @@ It also updates the previous variable to the old current value.
 
 After completing all steps, the function returns the final answer, stored in the current variable. This value represents the total number of ways to climb the given number of steps.
 
-## Summary:
-
-In simple terms, the code is like a smart friend helping you figure out how many different ways you can climb a staircase, and it does it in a way that's efficient and fast!
 
 ---
 
