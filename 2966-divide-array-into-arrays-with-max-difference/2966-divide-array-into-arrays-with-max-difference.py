@@ -2,6 +2,7 @@ class Solution:
     def divideArray(self, nums: List[int], k: int) -> List[List[int]]:
         nums.sort()
         chunks = []
+        
         for i in range(0, len(nums), 3):
             chunk = nums[i: i + 3]
             chunks.append(chunk)
